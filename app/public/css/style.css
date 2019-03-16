@@ -1,0 +1,44 @@
+.jumbotron {
+    background: red;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: black;
+    text-align: center;
+}
+
+hr {
+    border-color: inherit;
+    margin: 1em 0;
+}
+
+#resultsModal img {
+    overflow: hidden;
+    width: 500px;
+}
+
+.apiLink {
+    padding-top: 15px;
+}
+
+a {
+    color: white;
+}
+
+h3 {
+    color: white
+}
+
+h4 {
+    color: white;
+}
+
+h2 {
+    color: black;
+}
